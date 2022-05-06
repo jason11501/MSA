@@ -17,10 +17,3 @@ Các bạn có thể clone repo này về và run ngay bằng câu lệnh dướ
 ```
 
 ```
-
-## Kết quả
-   :sunglasses:
-   <p align="center" >
-   <img src="" >
-    Ảnh kết quả
-</p>
