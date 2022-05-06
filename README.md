@@ -1,17 +1,12 @@
-# PPTKDLNB
+# MSA - Phân tích thống kê dữ liệu nhiều biến (PTTKDLNB)
 Multivariate variable analysis<br>
-
-* Login với email
-* Register với email có avatar
-* Login bằng Facebook
 
 ## Install environments
 **Công cụ (Tool):**<br>
-* Xcode 13.3.1
-* Firebase: https://console.firebase.google.com/u/0/<br>
+* Visual Studio Code
 
 **Ngôn ngữ (Language):**<br>
-* Swift
+* Python
 
 Mở Terminal, cd vào folder firebase chứa Podfile, run: 
 ```
