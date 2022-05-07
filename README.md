@@ -1,5 +1,5 @@
-# MSA (Multivariate statistical analysis) - Phân tích thống kê dữ liệu nhiều biến (PTTKDLNB)<br>
-
+# Multivariate statistical analysis - Phân tích thống kê dữ liệu nhiều biến (PTTKDLNB)<br>
+# Phân lớp/ phân loại (Classification)
 ## Install environments
 **Công cụ (Tool):**<br>
 * Visual Studio Code
